@@ -1,5 +1,7 @@
 body {
     background-color: white; 
+}
+.bodyIndex {
     background-image: url('backgroundImage.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
