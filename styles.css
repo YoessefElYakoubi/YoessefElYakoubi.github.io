@@ -1,5 +1,9 @@
 body {
-    background-color: white;   
+    background-color: white; 
+    background-image: url('backgroundImage.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
 }
 h {
     font-size:25px;
